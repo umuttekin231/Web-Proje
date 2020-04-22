@@ -1,0 +1,45 @@
+body{
+    background-color:#ffffff;
+}
+nav{
+    background-color:black;
+}
+.nav-link{
+    color:aqua;
+}
+a:hover{
+    color:yellow;
+}
+.container-fluid{
+    width: 500px;
+    height: 100px;
+    float:left;
+    margin-left: 0px;
+    margin-top: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.rounded{
+    width: 400px;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+#basketbol{
+    width: 450px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+h5{
+    color:brown;
+    font-family: Fixed, monospace;
+}
+p{
+    font-family: Fixed, monospace;
+}
+#info{
+    text-align: center;
+    color:rgb(143, 122, 244,1.0);
+}
+
+
+
