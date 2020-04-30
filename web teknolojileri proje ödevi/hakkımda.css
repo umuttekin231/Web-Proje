@@ -1,23 +1,12 @@
-body{
-    background-color:#ffffff;
-}
 nav{
     background-color:black;
+    
 }
 .nav-link{
     color:aqua;
 }
 a:hover{
     color:yellow;
-}
-.container-fluid{
-    width: 500px;
-    height: 100px;
-    float:left;
-    margin-left: 0px;
-    margin-top: 5px;
-    padding-left: 50px;
-    padding-right: 50px;
 }
 .rounded{
     width: 400px;
