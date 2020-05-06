@@ -5,7 +5,7 @@ $username = $_POST['username'];
 $password = $_POST['password'];
 
 if ($username != $myusername || $password!=$mypassword || $password==""  || $username==""){
-        header("location: login.php");
+        header("location: login.html");
     }
 ?>
 <html>
