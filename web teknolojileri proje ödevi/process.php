@@ -1,7 +1,7 @@
 <?php
 $myusername = "b191210382@sakarya.edu.tr";
 $mypassword = "1";
-$username = $_POST['username'];
+$username = $_POST['email'];
 $password = $_POST['password'];
 
 if ($username != $myusername || $password!=$mypassword || $password==""  || $username==""){
